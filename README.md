@@ -1,4 +1,14 @@
 # mr_tools
+
 use this tool to:
-1) create and save powerfull password.
-2) encrypt and decrypt string, numbers or somthing else.
+
+1)scrape_data from web.
+
+2)automatic find sql injection.
+
+3)find onile subdomains.
+
+and more...(soon :) )
+
+
+good luck:)
